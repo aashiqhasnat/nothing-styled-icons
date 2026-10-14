@@ -8,10 +8,10 @@ A handcrafted, minimalist dot-matrix Android icon pack engineered with a Nothing
   <img src="screenshots/banner.png" alt="Nothing Icons Showcase Banner" width="100%"/>
 </p>
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0%20Stable-E5252A?style=flat-square)](https://github.com/aashiqhasnat/nothing-icon/releases)
-[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/aashiqhasnat/nothing-icon/releases)
-[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/aashiqhasnat/nothing-icon)
-[![Size](https://img.shields.io/badge/Size-28%20MB-purple?style=flat-square)](https://github.com/aashiqhasnat/nothing-icon/releases)
+[![Version](https://img.shields.io/badge/Version-v1.0.0%20Stable-E5252A?style=flat-square)](https://github.com/aashiqhasnat/nothing-styled-icons/releases)
+[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/aashiqhasnat/nothing-styled-icons/releases)
+[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/aashiqhasnat/nothing-styled-icons)
+[![Size](https://img.shields.io/badge/Size-28%20MB-purple?style=flat-square)](https://github.com/aashiqhasnat/nothing-styled-icons/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](LICENSE)
 
 ---
@@ -38,10 +38,10 @@ A handcrafted, minimalist dot-matrix Android icon pack engineered with a Nothing
 
 ## 📲 Download & Releases
 
-[![Download Nothing Icons APK](https://img.shields.io/badge/Download-Nothing%20Icons%20v1.0.0%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/aashiqhasnat/nothing-icon/releases)
+[![Download Nothing Icons APK](https://img.shields.io/badge/Download-Nothing%20Icons%20v1.0.0%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/aashiqhasnat/nothing-styled-icons/releases/download/v1.0.0/nothing-styled-icons-v1.0.0.apk)
 
-* **Direct GitHub CDN:** [Nothing-Icons-v1.0.0.apk](https://github.com/aashiqhasnat/nothing-icon/releases)
-* **Release Page:** [v1.0.0 Stable Release Notes](https://github.com/aashiqhasnat/nothing-icon/releases)
+* **Direct GitHub CDN:** [nothing-styled-icons-v1.0.0.apk](https://github.com/aashiqhasnat/nothing-styled-icons/releases/download/v1.0.0/nothing-styled-icons-v1.0.0.apk)
+* **Release Page:** [v1.0.0 Stable Release Notes](https://github.com/aashiqhasnat/nothing-styled-icons/releases/tag/v1.0.0)
 
 ---
 
