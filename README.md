@@ -5,7 +5,7 @@ A handcrafted, minimalist dot-matrix Android icon pack engineered with a Nothing
 > *Dot-matrix icons, your way. A clean, privacy-first icon pack featuring light & dark adaptive glyphs and zero trackers.*
 
 <p align="center">
-  <img src="screenshots/banner.png" alt="Nothing Icons Showcase Banner" width="100%"/>
+  <img src="banner.png" alt="Nothing Icons Showcase Banner" width="100%"/>
 </p>
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0%20Stable-E5252A?style=flat-square)](https://github.com/aashiqhasnat/nothing-styled-icons/releases)
