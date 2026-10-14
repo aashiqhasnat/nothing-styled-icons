@@ -1,6 +1,4 @@
-# Nothing Icons 🪐
-
-A handcrafted, minimalist dot-matrix Android icon pack engineered with a Nothing OS & Bauhaus-inspired visual identity by **[Aashiq Hasnat](https://github.com/aashiqhasnat)**.
+# Nothing Icons
 
 > *Dot-matrix icons, your way. A clean, privacy-first icon pack featuring light & dark adaptive glyphs and zero trackers.*
 
@@ -19,7 +17,7 @@ A handcrafted, minimalist dot-matrix Android icon pack engineered with a Nothing
 ## ✨ Key Features
 
 - 🎨 **Official App Launcher Icon:** Signature launcher icon with Android 13+ Nothing OS monochrome themed icon support.
-- 🖼️ **Over 4,000+ Handcrafted Dot-Matrix Glyphs:** High-definition vector icons celebrating the industrial dot-matrix design language with crisp contrast and adaptive shapes.
+- 🖼️ **Over 4,000+ Dot-Matrix Glyphs:** High-definition vector icons celebrating the industrial dot-matrix design language with crisp contrast and adaptive shapes.
 - 🌓 **Dual-Theme Perfection (Light & Dark Mode):**
   - **Light Mode:** Pure clean white circular plates with high-contrast black line-art glyphs and red focal accents.
   - **Dark Mode:** Deep matte charcoal plates with glowing white line-art glyphs and vivid red focal accents.
@@ -47,6 +45,6 @@ A handcrafted, minimalist dot-matrix Android icon pack engineered with a Nothing
 
 ## 👨‍💻 Developer & Contact
 
-- **Created by:** [Aashiq Hasnat](https://github.com/aashiqhasnat)
+- **Developed by:** [Aashiq Hasnat](https://github.com/aashiqhasnat)
 - **GitHub:** [@aashiqhasnat](https://github.com/aashiqhasnat)
 - **Email:** [ashikhasnat30@gmail.com](mailto:ashikhasnat30@gmail.com)
